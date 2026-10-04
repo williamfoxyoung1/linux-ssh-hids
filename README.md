@@ -4,7 +4,7 @@ A lightweight **Host-Based Intrusion Detection System (HIDS)** written in Bash t
 
 The tool extracts authentication information from SSH logs, tracks repeated failures by source IP address, and displays suspicious activity in a color-coded console table to help identify potential SSH brute-force attacks.
 
-![Linux SSH HIDS](screenshots/failed_ssh_monitor.png)
+![Linux SSH HIDS](screenshots/failed_ssh_login_monitor.png)
 
 ## Overview
 
